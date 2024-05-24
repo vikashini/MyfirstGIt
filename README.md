@@ -1,4 +1,0 @@
-MyfirstGIt
-==========
-
-Git example
